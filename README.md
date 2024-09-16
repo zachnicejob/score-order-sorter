@@ -1,10 +1,6 @@
 # score-order-sorter
 Sorts ensemble sheet music PDFs in score order
 
-<div id="badges">
-  <img src="https://img.shields.io/github/last-commit/zachnicejob/score-order-sorter?style=for-the-badge" alt="Last Branch Commit"/>
-</div>&nbsp;
-
 This application is run manually from your IDE. The user must enter the directory path containing PDFs in env/config and select the score order type by updating the appropriate function params in app.js.
 
 ## Current features:
@@ -35,10 +31,5 @@ This application is run manually from your IDE. The user must enter the director
   <a href="https://www.linkedin.com/in/zachary-nicely/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/github/last-commit/zachnicejob/conductor-website/temp-landing-page?style=for-the-badge" alt="Last Branch Commit"/>
+  <img src="https://img.shields.io/github/last-commit/zachnicejob/score-order-sorter?style=for-the-badge" alt="Last Branch Commit"/>
 </div>
-# Temporary Landing Page: Conductor Website
-
-<div id="badges">
-  <img src="https://img.shields.io/github/last-commit/zachnicejob/conductor-website/temp-landing-page?style=for-the-badge" alt="Last Branch Commit"/>
-</div>&nbsp;
