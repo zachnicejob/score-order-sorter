@@ -2,7 +2,7 @@
 Sorts ensemble sheet music PDFs in score order
 
 <div id="badges">
-  <img src="https://img.shields.io/github/last-commit/zachnicejob/conductor-website/temp-landing-page?style=for-the-badge" alt="Last Branch Commit"/>
+  <img src="https://img.shields.io/github/last-commit/zachnicejob/score-order-sorter?style=for-the-badge" alt="Last Branch Commit"/>
 </div>&nbsp;
 
 This application is run manually from your IDE. The user must enter the directory path containing PDFs in env/config and select the score order type by updating the appropriate function params in app.js.
