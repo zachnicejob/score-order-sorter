@@ -1,0 +1,1 @@
+export const DIRECTORY_PATH = ''; // Replace with your directory path

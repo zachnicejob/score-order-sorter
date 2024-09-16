@@ -1,0 +1,9 @@
+{
+    "name": "score-order-sorter",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "app.js",
+    "dependencies": {
+        "jest": "^29.7.0"
+    }
+}
