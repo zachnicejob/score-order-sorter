@@ -12,5 +12,5 @@ node_modules/
 # Optional npm cache directory
 .npm
 
-# # dotenv environment directories
-# env/
+# environment directories
+env/
