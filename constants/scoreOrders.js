@@ -1,6 +1,7 @@
 export const ORCHESTRA_SCORE_ORDER = [
     'orchestra', // name of score for user interface selection
     'score',
+    // woodwinds
     'piccolo',
     'flute',
     'oboe',
@@ -11,22 +12,39 @@ export const ORCHESTRA_SCORE_ORDER = [
     'alto_saxophone',
     'tenor_saxophone',
     'baritone_saxophone',
+    // brass
+    'f_horn',
+    'horn in f',
     'c_trumpet',
     'bb_trumpet',
     'trumpet in bb',
-    'f_horn',
-    'horn in f',
     'trombone',
     'bass_trombone',
     'euphonium',
     'tuba',
-    'string_bass',
-    'electric_bass',
-    'percussion',
+    // timpani
+    'timpani',
+    // non-pitched percussion
+    'templeblocks',
+    'handclap',
     'drum kit',
     'drumset',
+    'bass_drum',
+    // pitched percussion
+    'chimes',
+    'percussion',
+    // keyboard percussion
+    'glockenspiel',
+    'xylophone',
+    'marimba',
+    'vibraphone',
+    // other
     'harp',
     'piano',
+    'synthesizer',
+    'electric_guitar',
+    'electric_bass',
+    //strings
     'violin',
     'viola',
     'cello',
